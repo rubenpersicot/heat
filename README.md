@@ -11,7 +11,7 @@ The goal of this project is to implement the [Finite Element Method](https://en.
 
 ## Installation
 
-To check our project, you will need [anaconda](https://docs.anaconda.com/anaconda/install/index.html).
+To run the project, you will need [anaconda](https://docs.anaconda.com/anaconda/install/index.html).
 
 ## Usage 
 Simply run the jupyter notebook !
