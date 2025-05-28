@@ -16,9 +16,6 @@ To run the project, you will need [anaconda](https://docs.anaconda.com/anaconda/
 ## Usage 
 Simply run the jupyter notebook !
 
-## Final grade
-16,5/20
-
 ## Credits 
 [Virginie Galland Ehrlacher](https://team.inria.fr/matherials/team-members/virginie-ehrlacher-galland/)
 
